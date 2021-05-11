@@ -1,0 +1,15 @@
+.main-spinner-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  .spinner-border {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    color: #fff;
+  }
+  
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="672px" height="384px" viewBox="0 0 672 384" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pattern-content4</title>
+    <g id="Landingpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage" transform="translate(-140.000000, -3528.000000)">
+            <g id="section" transform="translate(108.000000, 3528.000000)">
+                <g id="pattern-content4" transform="translate(32.000000, 0.000000)">
+                    <path d="M384,288 L480,288 L480,384 C426.980664,384 384,341.019336 384,288 L384,288 L384,288 Z" id="Rectangle" fill="#C30101" transform="translate(432.000000, 336.000000) scale(1, -1) rotate(-90.000000) translate(-432.000000, -336.000000) "></path>
+                    <path d="M96,192 L288,192 L288,384 L196,384 C140.771525,384 96,339.228475 96,284 L96,192 L96,192 Z" id="Rectangle" fill="#EFEFF0" opacity="0.5" transform="translate(192.000000, 288.000000) scale(-1, -1) translate(-192.000000, -288.000000) "></path>
+                    <path d="M384,96 L480,96 L480,192 C426.980664,192 384,149.019336 384,96 L384,96 L384,96 Z" id="Rectangle" fill="#E5E5E6" transform="translate(432.000000, 144.000000) scale(1, -1) translate(-432.000000, -144.000000) "></path>
+                    <path d="M96,192 L192,192 L192,288 C138.980664,288 96,245.019336 96,192 L96,192 L96,192 Z" id="Rectangle" fill="#EFEFF0"></path>
+                    <path d="M96,96 L192,96 L192,192 C138.980664,192 96,149.019336 96,96 L96,96 L96,96 Z" id="Rectangle" fill="#E5E5E6" transform="translate(144.000000, 144.000000) scale(1, -1) translate(-144.000000, -144.000000) "></path>
+                    <path d="M480,0 L672,0 L672,192 C565.961328,192 480,106.038672 480,0 L480,0 L480,0 Z" id="Rectangle" fill="#F7F7F8" transform="translate(576.000000, 96.000000) scale(1, -1) translate(-576.000000, -96.000000) "></path>
+                    <path d="M192,0 L288,0 L288,96 C234.980664,96 192,53.019336 192,0 L192,0 L192,0 Z" id="Rectangle" fill="#E5E5E6" opacity="0.200000003" transform="translate(240.000000, 48.000000) scale(-1, -1) translate(-240.000000, -48.000000) "></path>
+                    <path d="M288,0 L384,0 L384,96 C330.980664,96 288,53.019336 288,0 L288,0 L288,0 Z" id="Rectangle" fill="#E5E5E6" transform="translate(336.000000, 48.000000) scale(-1, -1) translate(-336.000000, -48.000000) "></path>
+                    <path d="M0,192 L96,192 L96,288 C42.980664,288 6.49299601e-15,245.019336 0,192 L0,192 L0,192 Z" id="Rectangle" fill="#E5E5E6" transform="translate(48.000000, 240.000000) scale(1, -1) translate(-48.000000, -240.000000) "></path>
+                    <path d="M480,192 L576,192 L576,288 C522.980664,288 480,245.019336 480,192 L480,192 L480,192 Z" id="Rectangle" fill="#E5E5E6" opacity="0.200000003" transform="translate(528.000000, 240.000000) scale(1, -1) translate(-528.000000, -240.000000) "></path>
+                    <path d="M96,0 L192,0 L192,96 C138.980664,96 96,53.019336 96,0 L96,0 L96,0 Z" id="Rectangle" fill="#C30101" transform="translate(144.000000, 48.000000) scale(1, -1) rotate(-90.000000) translate(-144.000000, -48.000000) "></path>
+                    <path d="M0,96 L96,96 L96,192 C42.980664,192 6.49299601e-15,149.019336 0,96 L0,96 L0,96 Z" id="Rectangle" fill="#F7F7F8" transform="translate(48.000000, 144.000000) scale(-1, 1) rotate(-90.000000) translate(-48.000000, -144.000000) "></path>
+                    <path d="M192,100 L380,100 L380,288 C276.170467,288 192,203.829533 192,100 L192,100 L192,100 Z" id="Rectangle" fill="#F7F7F8" transform="translate(286.000000, 194.000000) scale(-1, -1) rotate(-90.000000) translate(-286.000000, -194.000000) "></path>
+                    <path d="M384,192 L480,192 L480,288 C426.980664,288 384,245.019336 384,192 L384,192 L384,192 Z" id="Rectangle" fill="#F7F7F8"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

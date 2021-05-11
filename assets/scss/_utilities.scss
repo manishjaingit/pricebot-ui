@@ -1,0 +1,148 @@
+/* Utilities */
+
+.grid-margin {
+  margin-bottom: $card-spacing-y;
+}
+.grid-margin-sm-0 {
+  @media (min-width: 576px) {
+    margin-bottom: 0;
+  }
+}
+.grid-margin-md-0 {
+  @media (min-width: 768px) {
+    margin-bottom: 0;
+  }
+}
+.grid-margin-lg-0 {
+  @media (min-width: 992px) {
+    margin-bottom: 0;
+  }
+}
+.grid-margin-xl-0 {
+  @media (min-width: 1200px) {
+    margin-bottom: 0;
+  }
+}
+.img-lg {
+  width: 92px;
+  height: 92px;
+}
+.img-sm {
+  width: 43px;
+  height: 43px;
+}
+.img-xs {
+  width: 37px;
+  height: 37px;
+}
+.img-ss {
+  width: 26px;
+  height: 26px;
+}
+.stretch-card {
+  @include display-flex;
+  @include align-items(stretch);
+  @include justify-content(stretch);
+  >.card{
+    width: 100%;
+    min-width: 100%;
+  }
+}
+
+.border-right-sm {
+  @media (min-width: 576px) {
+    border-right: $border-width solid $border-color;
+  }
+}
+.border-right-md {
+  @media (min-width: 768px) {
+    border-right: $border-width solid $border-color;
+  }
+}
+.border-right-lg {
+  @media (min-width: 992px) {
+    border-right: $border-width solid $border-color;
+  }
+}
+
+.border-left-sm {
+  @media (min-width: 576px) {
+    border-left: $border-width solid $border-color;
+  }
+}
+.border-left-md {
+  @media (min-width: 768px) {
+    border-left: $border-width solid $border-color;
+  }
+}
+.border-left-lg {
+  @media (min-width: 992px) {
+    border-left: $border-width solid $border-color;
+  }
+}
+
+.text-gray {
+  color: #8c8c8c;
+}
+
+.text-black {
+  color: $black;
+}
+.text-danger{
+
+  color: #C30101;
+}
+
+.text-small {
+  font-size: 12px;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.font-weight-light {
+  font-family: $type1-light;
+}
+
+.font-weight-bold {
+  font-family: $type1-bold;
+}
+
+.font-weight-normal {
+  font-family: $type1-regular;
+}
+.font14{
+  font-size: 14px;
+}
+.font12{
+  font-size: 12px;
+}
+
+$class: font;
+// loops through 100 times
+@for $i from 1 through 40 {
+  .#{$class}#{$i} {
+    font-size:$i+px !important;
+  }
+}
+
+.inter-semi-bold{
+  font-family: 'Inter semi bold' !important;
+}
+.inter-bold{
+  font-family: 'Inter bold' !important;
+}
+.inter-medium{
+  font-family: 'Inter medium' !important;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+$class: flex-;
+// loops through 100 times
+@for $i from 0 through 10 {
+  .#{$class}#{$i} {
+   flex:$i;
+  }
+}

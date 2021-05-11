@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="288px" viewBox="0 0 192 288" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>red-pattern-right</title>
+    <g id="Landingpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage" transform="translate(-1140.000000, -4064.000000)" fill="#FFFFFF">
+            <g id="CTA" transform="translate(108.000000, 4064.000000)">
+                <g id="red-pattern-right" transform="translate(1032.000000, 0.000000)">
+                    <path d="M96,192 L192,192 L192,288 C138.980664,288 96,245.019336 96,192 L96,192 L96,192 Z" id="Rectangle" opacity="0.100000001"></path>
+                    <path d="M96,96 L192,96 L192,192 C138.980664,192 96,149.019336 96,96 L96,96 L96,96 Z" id="Rectangle" opacity="0.200000003"></path>
+                    <path d="M96,0 L192,0 L192,96 C138.980664,96 96,53.019336 96,0 L96,0 L96,0 Z" id="Rectangle" opacity="0.100000001" transform="translate(144.000000, 48.000000) scale(1, -1) rotate(-90.000000) translate(-144.000000, -48.000000) "></path>
+                    <path d="M0,192 L96,192 L96,288 C42.980664,288 6.49299601e-15,245.019336 0,192 L0,192 L0,192 Z" id="Rectangle" opacity="0.200000003" transform="translate(48.000000, 240.000000) scale(1, -1) translate(-48.000000, -240.000000) "></path>
+                    <path d="M0,0 L96,0 L96,96 C42.980664,96 6.49299601e-15,53.019336 0,0 L0,0 L0,0 Z" id="Rectangle" opacity="0.100000001" transform="translate(48.000000, 48.000000) rotate(-90.000000) translate(-48.000000, -48.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
